@@ -38,7 +38,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## 📊 My Statistics:
+## 📊 My Statistics
 
 <p align="center">
 <table align="center">
@@ -60,7 +60,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <!-- CONNECT WITH ME -->
-<h2 align="center">🌐 Connect With Me</h2>
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chathunga-bimsara-02a728387/" target="_blank">
