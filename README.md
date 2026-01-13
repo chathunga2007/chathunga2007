@@ -30,8 +30,8 @@
 - ⚡ Fun Fact: **Call me as _Chathuwa_ 😄**
 
 </td>
-<td width="45%" align="center">
-  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="420"/>
+<td width="400px" align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="300px"/>
 </td>
 </tr>
 </table>
@@ -59,6 +59,25 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
+## 🛠 Languages & Tools
+
+- Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,scala,html,css,javascript,mongodb,express,php,react,nodejs,mysql,dart,flutter,spring" />
+  </a>
+</p>
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,powershell,arduino,autocad,figma,linux,windows,kali,idea,ps,au,pr,vscode,androidstudio,eclipse,postman,selenium,docker,discord,qt,r,visualstudio,wordpress" />
+  </a>
+</p>
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
 <!-- CONNECT WITH ME -->
 ## 🌐 Connect With Me
 
@@ -78,18 +97,13 @@
   <a href="https://www.youtube.com/@chathungabimsara2007" target="_blank">
     <img src="https://img.icons8.com/fluency/96/youtube-play.png" width="48"/>
   </a>
+	&nbsp;&nbsp;&nbsp;
+	<a href = 'https://github.com/chathunga2007?tab=repositories' target="_blank"> 
+		<img width = "48" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Let's+Connect+and+Grow+Together!;Follow+Me+on+Social+Media;Subscribe+for+Tech+Content+🔥" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-## 🛠 Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,mysql,postgresql,mongodb,git,linux,docker,photoshop,illustrator&perline=6" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
