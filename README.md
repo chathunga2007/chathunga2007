@@ -22,7 +22,7 @@
 
 <table align="center">
 <tr>
-<td width="55%" align="left">
+<td width="65%" align="left">
 
 - 🌱 Currently learning **Java & Software Engineering**
 - 🧑‍🎓 Studied at **IJSE**
@@ -30,7 +30,7 @@
 - ⚡ Fun Fact: **Call me as _Chathuwa_ 😄**
 
 </td>
-<td width="400px" align="center">
+<td width="380px" align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="300px"/>
 </td>
 </tr>
@@ -55,7 +55,6 @@
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=11D1E5&height=120&section=footer"/>
 </p>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
@@ -116,7 +115,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-Credits: [Chathunga Bimsara]([https://github.com/Aditya664](https://github.com/chathunga2007))
+Credits: [Chathunga Bimsara]([https://github.com/chathunga2007](https://github.com/chathunga2007))
 
 Last Edited on: 01/13/2026
 
