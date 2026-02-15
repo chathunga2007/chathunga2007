@@ -40,23 +40,14 @@
 
 ## 📊 My Statistics
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chathunga2007&theme=2077"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=chathunga2007&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chathunga2007&layout=compact&theme=tokyonight" width="38%" />
+</div>
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chathunga2007&theme=2077"/>
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chathunga2007&theme=2077"/>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=11D1E5&height=120&section=footer"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chathunga2007&theme=tokyonight" width="70%" />
+</div>
 
 ## 🛠 Languages & Tools
 
