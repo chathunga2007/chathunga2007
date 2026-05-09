@@ -83,7 +83,7 @@ motto: "Code • Create • Inspire"
 
 <!-- GITHUB TROPHIES -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chathunga2007&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="98%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=chathunga2007&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" width="98%"/>
 </p>
 
 <br/>
