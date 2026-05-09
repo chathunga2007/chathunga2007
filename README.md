@@ -23,7 +23,7 @@
   <a href="https://github.com/chathunga2007?tab=repositories">
     <img src="https://img.shields.io/badge/Repos-Public-00bfff?style=for-the-badge&logo=github&logoColor=white&labelColor=4a4d52"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=chathunga2007&label=Profile+Views&color=00bfff&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=chathunga2007&label=Profile+Views&color=00bfff&style=for-the-badge&abbreviated=true"/>
   <a href="https://github.com/chathunga2007?tab=stars">
     <img src="https://img.shields.io/github/stars/chathunga2007?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=00bfff&labelColor=4a4d52"/>
   </a>
