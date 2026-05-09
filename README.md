@@ -198,10 +198,9 @@ motto: "Code • Create • Inspire"
 
 <!-- FOOTER WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00bfff,100:0d1117&fontColor=ffffff&desc=•%20Thanksk%20For%20Visit%20My%20Github%20Page%20•&height=120&section=footer&descSize=20&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00bfff,100:0d1117&fontColor=ffffff&desc=•%20Thanks%20For%20Visiting%20My%20Profile%20•&height=120&section=footer&descSize=16&descAlignY=60&descAlign=50"/>
 </p>
 
-<p>
-  Credits: Chathunga Bimsara (https://github.com/chathunga2007) <br>
-  Last Edited on: 09th of May 2026
-</p>
+<div align="center">
+  <sub>Credits: <a href="https://github.com/chathunga2007">Chathunga Bimsara</a> | Last Edited: 10th of May 2026</sub>
+</div>
