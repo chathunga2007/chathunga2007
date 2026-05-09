@@ -11,7 +11,7 @@
 <h1 align="center">
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
-  Welcome to my Profile!
+  Welcome to My Profile!
 </h1>
 
 <p align="center">
@@ -20,18 +20,16 @@
 
 <p align="center">
   <a href="https://github.com/chathunga2007?tab=followers">
-    <img src="https://img.shields.io/github/followers/chathunga2007?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=00bfff" />
+    <img src="https://img.shields.io/github/followers/chathunga2007?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=00bfff&labelColor=4a4d52"/>
   </a>
-  &nbsp;
   <a href="https://github.com/chathunga2007?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-Public-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=00bfff" />
+    <img src="https://img.shields.io/badge/Repos-Public-00bfff?style=for-the-badge&logo=github&logoColor=white&labelColor=4a4d52"/>
   </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=chathunga2007&label=Profile+Views&color=00bfff&style=for-the-badge&abbreviated=true" />
-  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=chathunga2007&label=Profile+Views&color=00bfff&style=for-the-badge&abbreviated=true"/>
   <a href="https://github.com/chathunga2007?tab=stars">
-    <img src="https://img.shields.io/github/stars/chathunga2007?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=00bfff" />
+    <img src="https://img.shields.io/github/stars/chathunga2007?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=00bfff&labelColor=4a4d52"/>
   </a>
+  <img src="https://img.shields.io/badge/LOCATION-Sri%20Lanka-00bfff?style=for-the-badge&labelColor=4a4d52&logo=map-marker" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
@@ -49,12 +47,18 @@ location: Sri Lanka 🇱🇰
 education: IJSE (Institute of Software Engineering)
 currently_learning:
   - Java
-  - Software Engineering
+  - HTML
+  - CSS
+  - JavaScript
+  - Python
+  - React
 interests:
+  - Full-Stack Development
+  - Software Development
+  - Mobile Application Development
   - Content Creation
   - Social Work
   - Social Research
-  - Software Development
 motto: "Code • Create • Inspire"
 ```
 
@@ -199,7 +203,7 @@ motto: "Code • Create • Inspire"
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00bfff,100:0d1117&height=120&section=footer"/>
 </p>
 
-<!-- 
-  Credits: Chathunga Bimsara (https://github.com/chathunga2007)
-  Last Edited on: 05/09/2026
--->
+<p>
+  Credits: Chathunga Bimsara (https://github.com/chathunga2007) <br>
+  Last Edited on: 09th of May 2026
+</p>
