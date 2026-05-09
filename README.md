@@ -1,6 +1,6 @@
 <!-- HEADER ANIMATION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00bfff,100:0d1117&height=220&section=header&text=Chathunga%20Bimsara&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Content%20Creator%20•%20Future%20Software%20Engineer%20•%20Social%20Worker&descSize=16&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00bfff,100:0d1117&height=220&section=header&text=Chathunga%20Bimsara&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20•%20Aspiring%20Software%20Engineer%20•%20Content%20Creator%20•%20Social%20Worker&descSize=16&descAlignY=55&descAlign=50"/>
 </p>
 
 <!-- PROFILE GIF -->
@@ -71,11 +71,11 @@ motto: "Code • Create • Inspire"
 
 <p align="center">
   <a href="mailto:wggachathungabimsara2007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-wggachathungabimsara2007@gmail.com-00bfff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/Email-wggachathungabimsara2007@gmail.com-00bfff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4a4d52"/>
   </a>
   &nbsp;
   <a href="https://chathunga2007.github.io/My-Official-Personal-Portfolio-Web/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-My_Official_Website-00bfff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/Portfolio-My_Official_Website-00bfff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=4a4d52"/>
   </a>
 </p>
 
