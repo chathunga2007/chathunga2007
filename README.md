@@ -89,15 +89,18 @@ motto: "Code • Create • Inspire"
 
 <br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chathunga2007&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" width="70%"/>
-</p>
-
-<br/>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chathunga2007&theme=tokyonight&hide_border=true&background=0d1117&stroke=00bfff&ring=00bfff&fire=ff6347&currStreakLabel=00bfff&sideLabels=00bfff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" width="70%" />
 </div>
+
+<br/>
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=chathunga2007&theme=algolia&no-frame=true&no-bg=true&column=8&margin-w=10&margin-h=10&title=Commits,Repositories,Followers,Experience,Stars,Issues,PullRequest,Reviews" 
+    width="100%"
+  />
+</p>
 
 <br/>
 
