@@ -82,16 +82,16 @@ motto: "Code • Create • Inspire"
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"/> GitHub Stats & Activity
 
 <!-- GITHUB TROPHIES -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chathunga2007&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" width="60%"/>
-</p>
-
-<br/>
-
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=chathunga2007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&icon_color=00bfff&text_color=c9d1d9&ring_color=00bfff" width="49%" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chathunga2007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=c9d1d9" width="41%" />
 </div>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chathunga2007&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" width="60%"/>
+</p>
 
 <br/>
 
