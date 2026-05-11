@@ -143,29 +143,30 @@ motto: "Code • Create • Inspire"
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chathunga-bimsara-02a728387/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=plastic&logo=linkedin" width="85px"/>
   </a>
   &nbsp;
   <a href="https://web.facebook.com/profile.php?id=61571681231357" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/static/v1?label=&message=Facebook&color=1877F2&style=plastic&logo=facebook" width="85px"/>
   </a>
   &nbsp;
   <a href="https://www.instagram.com/chathunga200711/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/static/v1?label=&message=Instagram&color=E4405F&style=plastic&logo=instagram" width="85px"/>
   </a>
   &nbsp;
   <a href="https://www.youtube.com/@chathungabimsara2007" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/static/v1?label=&message=YouTube&color=FF0000&style=plastic&logo=youtube" width="85px"/>
   </a>
   &nbsp;
   <a href="https://github.com/chathunga2007?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=181717&style=plastic&logo=github" width="85px"/>
   </a>
   &nbsp;
   <a href="mailto:wggachathungabimsara2007@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/static/v1?label=&message=Gmail&color=EA4335&style=plastic&logo=gmail" width="85px"/>
   </a>
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Let's+Connect+and+Grow+Together!+%F0%9F%A4%9D;Follow+Me+for+Tech+Content+%F0%9F%94%A5;Always+Open+to+Collaborate!+%F0%9F%9A%80" />
