@@ -2,9 +2,7 @@
 <!--                    PREMIUM HEADER BANNER                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Chathunga%20Bimsara&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Aspiring%20Software%20Engineer%20%7C%20Content%20Creator&descSize=18&descAlignY=58&descColor=00d4ff" width="100%"/>
-</div>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Chathunga%20Bimsara&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20•%20Aspiring%20Software%20Engineer%20•%20Content%20Creator%20•%20Social%20Worker&descSize=16&descAlignY=55&descAlign=50"/> </p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    TYPING ANIMATION                            -->
@@ -28,8 +26,6 @@
 [![Location](https://img.shields.io/badge/%F0%9F%87%B1%F0%9F%87%B0_Location-Sri%20Lanka-00d4ff?style=for-the-badge&labelColor=0d1117)](https://github.com/chathunga2007)
 
 </div>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    ANIMATED DIVIDER                            -->
@@ -215,29 +211,25 @@ MySQL         ███████████████░░░░░  75% 
 
 <br/>
 
+<!-- GITHUB TROPHIES -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chathunga2007&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chathunga2007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=chathunga2007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&icon_color=00bfff&text_color=c9d1d9&ring_color=00bfff" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chathunga2007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=c9d1d9" width="41%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chathunga2007&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6347&currStreakLabel=00d4ff&sideLabels=00d4ff&currStreakNum=ffffff&sideNums=c9d1d9&dates=666666" width="65%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chathunga2007&theme=tokyonight&hide_border=true&background=0d1117&stroke=00bfff&ring=00bfff&fire=ff6347&currStreakLabel=00bfff&sideLabels=00bfff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" width="70%" />
 </div>
 
 <br/>
-
-<!-- TROPHIES -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chathunga2007&theme=algolia&no-frame=true&no-bg=true&column=8&margin-w=8&margin-h=8" width="100%"/>
-</div>
 
 <br/>
 
 <!-- ACTIVITY GRAPH -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chathunga2007&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff20&hide_border=true&custom_title=🔥%20Chathunga's%20Contribution%20Graph" width="97%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chathunga2007&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&area_color=00bfff&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
 </div>
 
 <br/>
@@ -401,9 +393,6 @@ MySQL         ███████████████░░░░░  75% 
 
 <br/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=550&lines=🤝+Always+Open+to+Collaborate!;🔥+Follow+for+Tech+Content+%26+Projects;💡+Let's+Build+Something+Amazing+Together!" />
-</div>
 
 <br/>
 
