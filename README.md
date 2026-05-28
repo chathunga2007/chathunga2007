@@ -190,13 +190,13 @@
 </div>
 
 ```
-Java          ████████████████░░░░  80%  🔥 Advanced
-HTML/CSS       ████████████████████  95%  ⚡ Expert
-JavaScript    █████████████████░░░  85%  🚀 Advanced
-Python        ████████████░░░░░░░░  65%  📈 Intermediate
-React         ██████████░░░░░░░░░░  55%  🌱 Growing
-Flutter/Dart  ████████░░░░░░░░░░░░  45%  📱 Learning
-MySQL         ███████████████░░░░░  75%  💾 Proficient
+                                      Java          ████████████████░░░░  80%  🔥 Advanced
+                                      HTML/CSS      ████████████████████  95%  ⚡ Expert
+                                      JavaScript    █████████████████░░░  85%  🚀 Advanced
+                                      Python        ████████████░░░░░░░░  65%  📈 Intermediate
+                                      React         ██████████░░░░░░░░░░  55%  🌱 Growing
+                                      Flutter/Dart  ████████░░░░░░░░░░░░  45%  📱 Learning
+                                      MySQL         ███████████████░░░░░  75%  💾 Proficient
 ```
 
 <br/>
