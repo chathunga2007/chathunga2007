@@ -2,9 +2,9 @@
 <!--                    PREMIUM HEADER BANNER                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10,12,14,16,18,20,22,24,26,28,30&height=250&section=header&text=Chathunga%20Bimsara&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Aspiring%20Software%20Engineer%20%7C%20Content%20Creator&descSize=18&descAlignY=58&descColor=ffffff" width="100%"/>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10,12,14,16,18,20,22,24,26,28,30&height=220&section=header&text=Chathunga%20Bimsara&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20•%20Aspiring%20Software%20Engineer%20•%20Content%20Creator%20•%20Social%20Worker&descSize=16&descAlignY=55&descAlign=50"/>
+</p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    TYPING ANIMATION                            -->
