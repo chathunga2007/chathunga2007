@@ -468,9 +468,9 @@ If you like what I do and want to support my open-source journey:
 <!--                    FOOTER                                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&fontColor=ffffff&desc=✨%20Thanks%20For%20Visiting%20•%20Come%20Back%20Soon%20✨&height=140&section=footer&descSize=17&descAlignY=60&descAlign=50" width="100%"/>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10,12,14,16,18,20,22,24,26,28,30&height=140&section=footer&fontColor=ffffff&desc=✨%20Thanks%20For%20Visiting%20•%20Come%20Back%20Soon%20✨&descSize=17&descAlignY=60&descAlign=50"/>
+</p>
 
 <div align="center">
   <sub>
