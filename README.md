@@ -221,6 +221,48 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
+## 🏆 Certifications
+ 
+<br/>
+<div align="center">
+### 🎖️ HackerRank Certified
+ 
+<br/>
+<table>
+<tr>
+<td width="33%" align="center">
+<h3>☕ Java (Basic)</h3>
+<img src="https://img.shields.io/badge/HackerRank-Java_Basic-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<br/><br/>
+<img src="assets/java_basic certificate.png" width="100%" alt="Java Basic Certificate"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Issued_by-HackerRank-00EA64?style=flat-square"/>
+</td>
+<td width="33%" align="center">
+<h3>🟨 JavaScript (Basic)</h3>
+<img src="https://img.shields.io/badge/HackerRank-JavaScript_Basic-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<br/><br/>
+<img src="assets/javascript_basic certificate.png" width="100%" alt="JavaScript Basic Certificate"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Issued_by-HackerRank-00EA64?style=flat-square"/>
+</td>
+<td width="33%" align="center">
+<h3>🗄️ SQL (Basic)</h3>
+<img src="https://img.shields.io/badge/HackerRank-SQL_Basic-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<br/><br/>
+<img src="assets/sql_basic certificate.png" width="100%" alt="SQL Basic Certificate"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Issued_by-HackerRank-00EA64?style=flat-square"/>
+</td>
+</tr>
+</table>
+</div>
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 ## 🚀 Featured Projects
 
 <br/>
