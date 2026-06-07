@@ -383,6 +383,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-Chathunga%20Bimsara-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=61571681231357)
 [![Gmail](https://img.shields.io/badge/Gmail-wggachathungabimsara2007@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wggachathungabimsara2007@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chathunga2007.github.io/My-Official-Personal-Portfolio-Web/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-ChathungaBimsara-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ChathungaBimsara)
 
 </div>
 
