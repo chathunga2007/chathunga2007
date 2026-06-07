@@ -350,7 +350,9 @@
 
 ## 📊 GitHub Metrics
 
-![Metrics](./github-metrics.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chathunga2007/chathunga2007/main/github-metrics.svg" alt="Metrics" />
+</p>
 
 <br/>
 
