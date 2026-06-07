@@ -348,6 +348,10 @@
 
 <br/>
 
+## 📊 GitHub Metrics
+
+![Metrics](./github-metrics.svg)
+
 <br/>
 
 <div align="center">
