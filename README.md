@@ -160,65 +160,6 @@
 
 <br/>
 
-<div align="center">
-
-### 📊 Skill Proficiency
-
-</div>
-
-```
-                                      Java          ████████████████░░░░  80%  🔥 Advanced
-                                      HTML/CSS      ████████████████████  95%  ⚡ Expert
-                                      JavaScript    █████████████████░░░  85%  🚀 Advanced
-                                      Python        ████████████░░░░░░░░  65%  📈 Intermediate
-                                      React         ██████████░░░░░░░░░░  55%  🌱 Growing
-                                      Flutter/Dart  ████████░░░░░░░░░░░░  45%  📱 Learning
-                                      MySQL         ███████████████░░░░░  75%  💾 Proficient
-```
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> GitHub Analytics
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=chathunga2007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&icon_color=00bfff&text_color=c9d1d9&ring_color=00bfff" width="49%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chathunga2007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=c9d1d9" width="41%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chathunga2007&theme=tokyonight&hide_border=true&background=0d1117&stroke=00bfff&ring=00bfff&fire=ff6347&currStreakLabel=00bfff&sideLabels=00bfff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" width="70%" />
-</div>
-
-<br/>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chathunga2007&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&area_color=00bfff&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-  </picture>
-</div>
-
-<br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🏆 Certifications
@@ -364,6 +305,67 @@
   <a href="https://github.com/chathunga2007?tab=repositories">
     <img src="https://img.shields.io/badge/🗂️_View_All_My_Repositories-00d4ff?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white"/>
   </a>
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<div align="center">
+
+### 📊 Skill Proficiency
+
+</div>
+
+```
+                                      Java          ████████████████░░░░  80%  🔥 Advanced
+                                      HTML/CSS      ████████████████████  95%  ⚡ Expert
+                                      JavaScript    █████████████████░░░  85%  🚀 Advanced
+                                      Python        ████████████░░░░░░░░  65%  📈 Intermediate
+                                      React         ██████████░░░░░░░░░░  55%  🌱 Growing
+                                      Flutter/Dart  ████████░░░░░░░░░░░░  45%  📱 Learning
+                                      MySQL         ███████████████░░░░░  75%  💾 Proficient
+```
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> GitHub Analytics
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=chathunga2007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&icon_color=00bfff&text_color=c9d1d9&ring_color=00bfff" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chathunga2007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=c9d1d9" width="41%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chathunga2007&theme=tokyonight&hide_border=true&background=0d1117&stroke=00bfff&ring=00bfff&fire=ff6347&currStreakLabel=00bfff&sideLabels=00bfff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" width="70%" />
+</div>
+
+<br/>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chathunga2007&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&area_color=00bfff&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  </picture>
 </div>
 
 <br/>
