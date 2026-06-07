@@ -1,24 +1,12 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    PREMIUM HEADER BANNER                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10,12,14,16,18,20,22,24,26,28,30&height=220&section=header&text=Chathunga%20Bimsara&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20•%20Aspiring%20Software%20Engineer%20•%20Content%20Creator%20•%20Social%20Worker&descSize=16&descAlignY=55&descAlign=50"/>
 </p>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    TYPING ANIMATION                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00D4FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=55&lines=%F0%9F%91%8B+Hey+There!+I'm+Chathunga+%F0%9F%87%B1%F0%9F%87%B0;%F0%9F%92%BB+Turning+Ideas+into+Code...;%F0%9F%9A%80+Building+Tomorrow's+Tech+Today!;%E2%9C%A8+Code+%E2%80%A2+Create+%E2%80%A2+Inspire+%E2%80%A2+Repeat" />
 </div>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    PROFILE BADGES                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -28,10 +16,6 @@
 [![Location](https://img.shields.io/badge/%F0%9F%87%B1%F0%9F%87%B0_Location-Sri%20Lanka-00d4ff?style=for-the-badge&labelColor=0d1117)](https://github.com/chathunga2007)
 
 </div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED DIVIDER                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
@@ -94,10 +78,6 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CURRENT ACTIVITIES                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 | 🔭 Working On | 🌱 Learning | 👯 Looking To | 💬 Ask Me About |
@@ -109,10 +89,6 @@
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    TECH STACK                                   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> Tech Stack
 
@@ -184,7 +160,6 @@
 
 <br/>
 
-<!-- SKILL LEVEL BARS -->
 <div align="center">
 
 ### 📊 Skill Proficiency
@@ -205,15 +180,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATS                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> GitHub Analytics
 
 <br/>
 
-<!-- GITHUB TROPHIES -->
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=chathunga2007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&icon_color=00bfff&text_color=c9d1d9&ring_color=00bfff" width="49%" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chathunga2007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=c9d1d9" width="41%" />
@@ -229,7 +199,6 @@
 
 <br/>
 
-<!-- ACTIVITY GRAPH -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chathunga2007&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&area_color=00bfff&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
 </div>
@@ -237,10 +206,6 @@
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CONTRIBUTION SNAKE                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🐍 Contribution Snake
 
@@ -256,10 +221,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    FEATURED PROJECTS                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 🚀 Featured Projects
 
 <br/>
@@ -267,10 +228,8 @@
 <div align="center">
 <table>
 
-<!-- ROW 1 -->
 <tr>
 
-<!-- PROJECT 1 -->
 <td width="50%">
 <h3 align="center">🌐 Personal Portfolio Website</h3>
 <div align="center">
@@ -292,7 +251,6 @@
 </p>
 </td>
 
-<!-- PROJECT 2 -->
 <td width="50%">
 <h3 align="center">☕ Java POS System</h3>
 <div align="center">
@@ -314,10 +272,8 @@
 
 </tr>
 
-<!-- ROW 2 -->
 <tr>
 
-<!-- PROJECT 3 -->
 <td width="50%">
 <h3 align="center">📱 Flutter Mobile App</h3>
 <div align="center">
@@ -337,7 +293,6 @@
 </p>
 </td>
 
-<!-- PROJECT 4 -->
 <td width="50%">
 <h3 align="center">🌿 Spring Boot REST API</h3>
 <div align="center">
@@ -373,10 +328,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    SOCIAL LINKS                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 🌐 Let's Connect!
 
 <br/>
@@ -399,10 +350,6 @@
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    FUN FACTS / QUOTE                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## ⚡ Fun Facts About Me
 
@@ -444,10 +391,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    SUPPORT ME                                   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 💖 Support My Work
 
 <div align="center">
@@ -463,10 +406,6 @@ If you like what I do and want to support my open-source journey:
 </div>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    FOOTER                                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10,12,14,16,18,20,22,24,26,28,30&height=140&section=footer&fontColor=ffffff&desc=✨%20Thanks%20For%20Visiting%20•%20Come%20Back%20Soon%20✨&descSize=17&descAlignY=60&descAlign=50"/>
