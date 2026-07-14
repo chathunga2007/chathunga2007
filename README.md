@@ -467,7 +467,7 @@ If you like what I do and want to support my open-source journey:
 <div align="center">
   <sub>
     Made with ❤️ by <a href="https://github.com/chathunga2007"><strong>Chathunga Bimsara</strong></a> | 
-    <a href="https://chathunga2007.github.io/My-Official-Personal-Portfolio-Web/">🌐 Portfolio</a> | 
+    <a href="https://my-official-personal-portfolio-web.vercel.app/">🌐 Portfolio</a> | 
     Last Updated: May 2026
   </sub>
 </div>
