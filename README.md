@@ -219,7 +219,7 @@
   <a href="https://chathunga-bimsara-portfolio-web.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🔗_Live_Demo-00d4ff?style=for-the-badge&labelColor=0d1117" />
   </a>
-  <a href="https://chathunga-bimsara-portfolio-web.vercel.app/" target="_blank">
+  <a href="https://github.com/chathunga2007/Chathunga-Bimsara-Portfolio-Web" target="_blank">
     <img src="https://img.shields.io/badge/⭐_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
