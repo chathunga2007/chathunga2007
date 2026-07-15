@@ -68,7 +68,7 @@
   <img src="https://img.shields.io/badge/📧_Email-00d4ff?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
 </a>
 <br/><br/>
-<a href="https://my-official-personal-portfolio-web.vercel.app/" target="_blank">
+<a href="https://chathunga-bimsara-portfolio-web.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Portfolio-00d4ff?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
 </a>
 
@@ -216,10 +216,10 @@
 <td width="50%">
 <h3 align="center">🌐 Personal Portfolio Website</h3>
 <div align="center">
-  <a href="https://my-official-personal-portfolio-web.vercel.app/" target="_blank">
+  <a href="https://chathunga-bimsara-portfolio-web.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🔗_Live_Demo-00d4ff?style=for-the-badge&labelColor=0d1117" />
   </a>
-  <a href="https://my-official-personal-portfolio-web.vercel.app/" target="_blank">
+  <a href="https://chathunga-bimsara-portfolio-web.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/⭐_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
@@ -392,7 +392,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-@chathunga200711-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chathunga200711/)
 [![Facebook](https://img.shields.io/badge/Facebook-Chathunga%20Bimsara-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=61571681231357)
 [![Gmail](https://img.shields.io/badge/Gmail-wggachathungabimsara2007@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wggachathungabimsara2007@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://my-official-personal-portfolio-web.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chathunga-bimsara-portfolio-web.vercel.app/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-ChathungaBimsara-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ChathungaBimsara)
 
 </div>
@@ -467,8 +467,8 @@ If you like what I do and want to support my open-source journey:
 <div align="center">
   <sub>
     Made with ❤️ by <a href="https://github.com/chathunga2007"><strong>Chathunga Bimsara</strong></a> | 
-    <a href="https://my-official-personal-portfolio-web.vercel.app/">🌐 Portfolio</a> | 
-    Last Updated: May 2026
+    <a href="https://chathunga-bimsara-portfolio-web.vercel.app/">🌐 Portfolio</a> | 
+    Last Updated: July 2026
   </sub>
 </div>
 
