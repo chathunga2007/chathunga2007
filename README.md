@@ -90,7 +90,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> Tech Stack
+<div align="center">
+  <h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> Tech Stack</h2>
+</div>
 
 <br/>
 
@@ -162,7 +164,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 🏆 Certifications
+<div align="center">
+  <h2>🏆 Certifications</h2>
+</div>
  
 <br/>
 <div align="center">
@@ -204,7 +208,9 @@
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 🚀 Featured Projects
+<div align="center">
+  <h2>🚀 Featured Projects</h2>
+</div>
 
 <br/>
 
