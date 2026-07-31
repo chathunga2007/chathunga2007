@@ -297,6 +297,8 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 </p>
 </td>
+</tr>
+</table>
 
 <br/>
 
@@ -306,26 +308,61 @@
   </a>
 </div>
 
-
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <div align="center">
 
-### 📊 Skill Proficiency
+  <h2>📊 Skill Proficiency</h2>
+  <br/>
+
+  <table>
+    <tr>
+      <td align="right"><b>HTML/CSS</b></td>
+      <td><img src="https://geps.dev/progress/95?dangerColor=8a2be2&warningColor=00d4ff&successColor=00e676" alt="HTML/CSS Progress" /></td>
+      <td><b>95%</b></td>
+      <td>⚡ Expert</td>
+    </tr>
+    <tr>
+      <td align="right"><b>JavaScript</b></td>
+      <td><img src="https://geps.dev/progress/85?dangerColor=8a2be2&warningColor=00d4ff&successColor=00e676" alt="JS Progress" /></td>
+      <td><b>85%</b></td>
+      <td>🚀 Advanced</td>
+    </tr>
+    <tr>
+      <td align="right"><b>Java</b></td>
+      <td><img src="https://geps.dev/progress/80?dangerColor=8a2be2&warningColor=00d4ff&successColor=00e676" alt="Java Progress" /></td>
+      <td><b>80%</b></td>
+      <td>🔥 Advanced</td>
+    </tr>
+    <tr>
+      <td align="right"><b>MySQL</b></td>
+      <td><img src="https://geps.dev/progress/75?dangerColor=8a2be2&warningColor=00d4ff&successColor=00e676" alt="MySQL Progress" /></td>
+      <td><b>75%</b></td>
+      <td>💾 Proficient</td>
+    </tr>
+    <tr>
+      <td align="right"><b>Python</b></td>
+      <td><img src="https://geps.dev/progress/65?dangerColor=8a2be2&warningColor=00d4ff&successColor=00e676" alt="Python Progress" /></td>
+      <td><b>65%</b></td>
+      <td>📈 Intermediate</td>
+    </tr>
+    <tr>
+      <td align="right"><b>React</b></td>
+      <td><img src="https://geps.dev/progress/55?dangerColor=8a2be2&warningColor=00d4ff&successColor=00e676" alt="React Progress" /></td>
+      <td><b>55%</b></td>
+      <td>🌱 Growing</td>
+    </tr>
+    <tr>
+      <td align="right"><b>Flutter/Dart</b></td>
+      <td><img src="https://geps.dev/progress/45?dangerColor=8a2be2&warningColor=00d4ff&successColor=00e676" alt="Flutter Progress" /></td>
+      <td><b>45%</b></td>
+      <td>📱 Learning</td>
+    </tr>
+  </table>
 
 </div>
-
-```
-                                      Java          ████████████████░░░░  80%  🔥 Advanced
-                                      HTML/CSS      ████████████████████  95%  ⚡ Expert
-                                      JavaScript    █████████████████░░░  85%  🚀 Advanced
-                                      Python        ████████████░░░░░░░░  65%  📈 Intermediate
-                                      React         ██████████░░░░░░░░░░  55%  🌱 Growing
-                                      Flutter/Dart  ████████░░░░░░░░░░░░  45%  📱 Learning
-                                      MySQL         ███████████████░░░░░  75%  💾 Proficient
-```
 
 <br/>
 
