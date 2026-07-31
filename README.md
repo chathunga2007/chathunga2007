@@ -258,6 +258,28 @@
 <tr>
 
 <td width="50%">
+  <h3 align="center">🌿 Spring Boot REST API</h3>
+  <div align="center">
+    <a href="https://github.com/chathunga2007/ITS1114-Spring-Security-Beta-Testing-AAD-Pro-Backend" target="_blank">
+      <img src="https://img.shields.io/badge/⭐_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://github.com/chathunga2007/ITS1114-Spring-Security-Beta-Testing-AAD-Pro-Backend" target="_blank">
+      <img src="https://img.shields.io/badge/Status-Active-2ea44f?style=for-the-badge&labelColor=0d1117" />
+    </a>
+  </div>
+  <br/>
+  <p align="center">
+    A RESTful backend API built with Spring Boot, featuring JWT authentication, MySQL database and Postman-tested endpoints.
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+  </p>
+</td>
+
+<td width="50%">
 <h3 align="center">📱 Flutter Mobile App</h3>
 <div align="center">
   <a href="https://github.com/chathunga2007" target="_blank">
@@ -276,29 +298,6 @@
 </p>
 </td>
 
-<td width="50%">
-<h3 align="center">🌿 Spring Boot REST API</h3>
-<div align="center">
-  <a href="https://github.com/chathunga2007" target="_blank">
-    <img src="https://img.shields.io/badge/⭐_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Status-Coming_Soon-00d4ff?style=for-the-badge&labelColor=0d1117" />
-</div>
-<br/>
-<p align="center">
-  A RESTful backend API built with Spring Boot, featuring JWT authentication, MySQL database and Postman-tested endpoints.
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-</p>
-</td>
-
-</tr>
-</table>
-</div>
-
 <br/>
 
 <div align="center">
@@ -306,6 +305,7 @@
     <img src="https://img.shields.io/badge/🗂️_View_All_My_Repositories-00d4ff?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white"/>
   </a>
 </div>
+
 
 <br/>
 
